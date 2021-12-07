@@ -18,7 +18,7 @@
 <a href="https://www.microsoft.com/software-download/windows11"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/windows11.png" height="auto" width="70"></a>
 </p>
 
-### 📱 Langkah-Langkah Instalasi "Pyhton dan Git" di Termux Android & Iphone, atau silahkan di copy paste setiap langkah dibawah ini di Aplikasi Termux "Tanpa symbol" ( $ ) :
+### `📱 Langkah-Langkah Instalasi "Pyhton dan Git" di Termux Android & Iphone, atau silahkan di copy paste setiap langkah dibawah ini di Aplikasi Termux "Tanpa symbol" ( $ ) :`
 
 ##### _~ Jika sudah masuk Ke Aplikasi Termux pada Android, Lalu Ketikan Perintah Number 1 tanpa symbol ( $ ) :_
 
