@@ -80,7 +80,6 @@ def dekripsi(abjad):
     str = input("Masukan Teks : ")
     key = int(input("Masukan Key/Kunci (Number/nomor) : "))
 
-    str = str.lower()
     result = ''
 
     for char in str:
@@ -90,7 +89,7 @@ def dekripsi(abjad):
             convert = abjad[decrypt]
             result = result + convert
         else:
-            result = result + ''
+            result = result + 'null'
 
     print(f"Text TerDekripsi : {result}")
 

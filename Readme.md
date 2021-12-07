@@ -40,15 +40,17 @@
 
 ##### _~ Setelah proses cloning selesai, kita move on dari perintah di atas dan ketikan perintah ini di Termux "Number 7, 8 dan 9" tanpa symbol ( $ ) :_
 
-`7.` ` $ ls` **Kemudian Tekan Enter**
+`7.` ` $ ls` **Kemudian Tekan Enter, jika warna ungu "edand" maka cukup sekali ketikan langkah ( Nomor 8 )**
 
 `8.` ` $ cd edand` **Kemudian Tekan Enter**
 
-##### _~ Dan jika sudah "~/edand" berwana hijau, lalu ketikan perintah berikut ( Nomor 9 ) "tanpa symbol" ( $ ) :_
+##### _~ Dan jika sudah "~/edand" berwana hijau atau hanya muncul symbol dollar saja , tetap ketikan perintah berikut pada ( Nomor 9 ) "tanpa symbol" ( $ ) :_
 
 `9.` ` $ python edand.py` **Kemudian Tekan Enter**
 
 ### **Panduan Installasi Python di Termux Android & Iphone Sudah selesai, Jika ingin Menjalakan-nya cukup Ketikan dari Langkah Nomor ( 7, 8 dan 9 ) dan jika "~/edand" masih berwarna hijau maka cukup ketikan Langkah pada ( Nomor 9 ) saja. "Tanpa Symbol" ( $ ) !!!**
+
+# **Catatan : untuk membersihkan layar ketik "clear" tanpa ("), lalu ketika masuk kembali ke aplikasi termux ada warning berwana merah "abaikan saja" atau di ketik "clear" tanpa (").**
 
 ## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
