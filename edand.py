@@ -1,17 +1,7 @@
 import string
-import sys
 from random import choice
+from colorama import Fore, Style, init
 
-
-try:
-    from colorama import Fore, Style, init
-    from Crypto.Random import random
-except ImportError:
-    print(
-        "ERROR: Missing required libraries.\n"
-        "Install dependencies with: pip install -r requirements.txt"
-    )
-    sys.exit(1)
 
 colorList = [Style.BRIGHT + Fore.RED, Style.BRIGHT + Fore.GREEN, Style.BRIGHT + Fore.YELLOW,
              Style.BRIGHT + Fore.BLUE, Fore.MAGENTA, Style.BRIGHT + Fore.CYAN, Style.BRIGHT + Fore.WHITE, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.WHITE]
@@ -55,7 +45,7 @@ def dekrip(cipher):
 init()
 print(choice(colorList) +
       f"""
-      https://github.com/nandimf/EdanD
+      https://github.com/nandimf/edand
 {choice(colorList)}
 ##    #       #	      ##    #  ####    #
 # #   #	     # #      # #   #  #   #   #

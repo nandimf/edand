@@ -22,31 +22,31 @@
 
 ##### _~ Jika sudah masuk Ke Aplikasi Termux pada Android, Lalu Ketikan Perintah Number 1 tanpa symbol ( $ ) :_
 
-`1.` ` $ pkg update && pkg upgrade` **dan Tekan Enter**
+`1.` ` $ pkg update && pkg upgrade -y` **Tekan Enter, dan tunggu hingga proses download & install-nya selesai**
 
-##### _~ Setelah mengupdate dan mengupgrade termux anda, lalu ketikan perintah pada Number { 2 dan 3 } "tanpa symbol" ( $ ) berikut :_
+##### _~ Setelah mengupdate dan mengupgrade termux anda, lalu ketikan perintah pada Number { 2, 3 dan 4} "tanpa symbol" ( $ ) berikut :_
 
-`2.` ` $ pkg install python` **Tekan Enter, Kemudian ada pilihan ( y/n : ) Ketik = y dan Tekan Enter lagi**
+`2.` ` $ pkg install python -y` **Tekan Enter, Kemudian ada pilihan ( y/n : ) Ketik = y dan Tekan Enter lalu tunggu hingga proses download & install-nya selesai**
 
-`3.` `$ pkg install git` **Tekan Enter, Kemudian ada pilihan ( y/n : ) Ketik = y dan Tekan Enter lagi**
+`3.` `$ pkg install git -y` **Tekan Enter, Kemudian ada pilihan ( y/n : ) Ketik = y dan Tekan Enter lalu tunggu hingga proses download & install-nya selesai**
 
-##### _~ Setelah mengikuti perintah di atas, waktu-nya kita clonning tool-nya "Number 4" tanpa symbol ( $ ) :_
+`4.` ` $ pip install colorama -y` **Kemudian Tekan Enter**
 
-`4.` ` $ git clone https://github.com/nandimf/edand.git` **Kemudian Tekan Enter**
+##### _~ Setelah mengikuti perintah di atas, waktu-nya kita clonning tool-nya "Number 5" tanpa symbol ( $ ) :_
 
-##### _~ Setelah proses cloning selesai, kita move on dari perintah di atas dan ketikan perintah ini di Termux "Number 5, 6 dan 7" tanpa symbol ( $ ) :_
+`5.` ` $ git clone https://github.com/nandimf/edand.git` **Kemudian Tekan Enter**
 
-`5.` ` $ ls` **Kemudian Tekan Enter**
+##### _~ Setelah proses cloning selesai, kita move on dari perintah di atas dan ketikan perintah ini di Termux "Number 6, 7 dan 8" tanpa symbol ( $ ) :_
 
-`6.` ` $ cd edand` **Kemudian Tekan Enter**
+`6.` ` $ ls` **Kemudian Tekan Enter**
 
-`7.` ` $ pip install -r requirements.txt` **Kemudian Tekan Enter**
+`7.` ` $ cd edand` **Kemudian Tekan Enter**
 
-##### _~ Dan cara menjalankan-nya menggunakan perintah berikut "tanpa symbol" ( $ ) :_
+##### _~ Dan jika sudah "~/edand" hijau, lalu ketikan perintah berikut ( Nomor 8 ) "tanpa symbol" ( $ ) :_
 
 `8.` ` $ python edand.py` **Kemudian Tekan Enter**
 
-### **Panduan Installasi Python di Termux Android & Iphone Sudah selesai ( Jika ingin Menjalakan-nya cukup Ketikan Langkah No.8 "Tanpa Symbol" ( $ ) !!!**
+### **Panduan Installasi Python di Termux Android & Iphone Sudah selesai, Jika ingin Menjalakan-nya cukup Ketikan dari Langkah Nomor ( 6, 7 dan 8 ) dan jika "~/edand" masih hijau maka cukup ketikan Nomor 8 saja. "Tanpa Symbol" ( $ ) !!!**
 
 ## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
