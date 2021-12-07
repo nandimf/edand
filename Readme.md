@@ -14,12 +14,12 @@
 ## Platform, Language and Tools ( 📱💻🖥️ )
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nandimf/edand/master/assests/android.png" height="auto" width="70">
-<a href="https://www.python.org/downloads/"><img height="auto" width="100" src="https://raw.githubusercontent.com/nandimf/edand/master/assests/python.png"></a>
-<img src="https://raw.githubusercontent.com/nandimf/edand/main/assests/termux.png" height="auto" width="100">
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assests/git.png" height="auto" width="100"></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assests/vscode.png" height="auto" width="100"></a>
-<a href="https://www.microsoft.com/software-download/windows11"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assests/windows11.png" height="auto" width="100"></a>
+<img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/android.png" height="auto" width="70">
+<a href="https://www.python.org/downloads/"><img height="auto" width="70" src="https://raw.githubusercontent.com/nandimf/edand/main/assets/python.png"></a>
+<img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/termux.png" height="auto" width="70">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/git.png" height="auto" width="70"></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/vscode.png" height="auto" width="70"></a>
+<a href="https://www.microsoft.com/software-download/windows11"><img src="https://raw.githubusercontent.com/nandimf/edand/main/assets/windows11.png" height="auto" width="70"></a>
 </p>
 
 ### 📱 Langkah-Langkah Instalasi "Pyhton dan Git" di Termux Android & Iphone, atau silahkan di copy paste setiap langkah dibawah ini di Aplikasi Termux "Tanpa symbol" ( $ ) :
