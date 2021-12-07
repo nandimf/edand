@@ -2,14 +2,10 @@
 
 **- Ini adalah panduan untuk installasi dan penggunaaan Code Enkripsi dan Dekripsi di setiap platform "Mobile", "Web" dan "Desktop"** 🤓
 
-## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
-
 ## Click Image/gambar Google Play untuk Download Aplikasi Termux ( Untuk Android ) :
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.termux&hl=in&gl=US"><img height="auto" width="100" src="https://raw.githubusercontent.com/nandimf/edand/main/assets/google-play.png"></a></p>
-
-## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 ## Platform, Language and Tools ( 📱💻🖥️ )
 
