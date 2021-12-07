@@ -48,7 +48,7 @@
 
 `9.` ` $ python edand.py` **Kemudian Tekan Enter**
 
-### **Panduan Installasi Python di Termux Android & Iphone Sudah selesai, Jika ingin Menjalakan-nya cukup Ketikan dari Langkah Nomor ( 6, 7 dan 8 ) dan jika "~/edand" masih berwarna hijau maka cukup ketikan Langkah pada ( Nomor 8 ) saja. "Tanpa Symbol" ( $ ) !!!**
+### **Panduan Installasi Python di Termux Android & Iphone Sudah selesai, Jika ingin Menjalakan-nya cukup Ketikan dari Langkah Nomor ( 7, 8 dan 9 ) dan jika "~/edand" masih berwarna hijau maka cukup ketikan Langkah pada ( Nomor 9 ) saja. "Tanpa Symbol" ( $ ) !!!**
 
 ## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
