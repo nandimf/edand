@@ -77,7 +77,7 @@ def enkripsi(abjad):
 
 
 def dekripsi(abjad):
-    str = input("Masukan Teks : ")
+    str = input("Masukan Teks Enkripsi : ")
     key = int(input("Masukan Key/Kunci (Number/nomor) : "))
 
     result = ''

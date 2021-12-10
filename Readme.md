@@ -54,21 +54,18 @@
 
 ## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
-## **-- Panduan Menggunakan Code Enkripsi dan Dekripsi Di Web --**
+## **-- Panduan Menggunakan Code Enkripsi dan Dekripsi Di Online Web Browser --**
 
-`1.` `Buka link berikut :
+`1.` `Buka link berikut : https://github.com/nandimf/edand/blob/main/edand2.py`
 
-- TypeScript
+`2.` `Copy Seluruh Code-nya Dari Nomor/Number 1-122.`
 
-### :thinking: I want to learn:
+`3.` `Kemudian Buka Di Browser Anda, dengan link berikut https://replit.com/languages/online-python-compiler ` `Atau Ketik di Google "Python online Compiler" tanpa symbol( " )`
 
-- Next.js
-- GraphQL
-- Contentful
+`4.` `Lalu Paste Code-nya Di Text Area-nya, Lalu Tekan tombol Run Yang berwarna Hijau.`
 
-### Outside of coding I enjoy:
+`5.` `Jika Sukses, maka akan muncul hasilnya.`
 
-- Playing video games :video_game:
-- Skateboarding :skateboard:
-- Bowling :bowling:
-- Sci-fi movies/tv shows :vulcan_salute:
+`6.` `Jika Gagal, maka akan muncul pesan error.`
+
+## \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*

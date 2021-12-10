@@ -80,7 +80,8 @@ def enkripsi(abjad):
 
 
 def dekripsi(abjad):
-    str = input(choice(colorList) + "Masukan Teks : " + choice(colorList))
+    str = input(choice(colorList) +
+                "Masukan Teks Enkripsi: " + choice(colorList))
     key = int(input(choice(colorList) +
                     "Masukan Key/kunci (Number/nomor) : " + choice(colorList)))
 
