@@ -34,7 +34,7 @@
 
 `5.` `$ pip install --upgrade pip` **Kemudian Tekan Enter, lalu tunggu hingga proses download & install-nya selesai**
 
-##### _~ Setelah mengikuti perintah di atas, waktu-nya kita clonning tool-nya "Number 5" tanpa symbol ( $ ) :_
+##### _~ Setelah mengikuti perintah di atas, waktu-nya kita clonning tool-nya "Number 6" tanpa symbol ( $ ) :_
 
 `6.` ` $ git clone https://github.com/nandimf/edand.git` **Kemudian Tekan Enter**
 
@@ -62,7 +62,7 @@
 
 `3.` `Kemudian Buka Di Browser Anda, dengan link berikut https://replit.com/languages/online-python-compiler ` `Atau Ketik di Google "Python online Compiler" tanpa symbol( " )`
 
-`4.` `Lalu Paste Code-nya Di Text Area-nya, Lalu Tekan tombol Run Yang berwarna Hijau.`
+`4.` `Lalu Paste Code-nya Di Text Area-nya, Lalu Tekan tombol Run Yang berwarna Hijau atau Tombol Run dan warna lainnya.`
 
 `5.` `Jika Sukses, maka akan muncul hasilnya.`
 
